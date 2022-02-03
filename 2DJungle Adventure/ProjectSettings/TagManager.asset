@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - '?'
+  - dat
+  - deadEnemy
+  - dau
+  - mat
+  - coins
+  - devo
+  - notdead
+  - cotco
+  - ong_nuoc
+  - ground
+  - loxo
+  - datvo
+  - attack
+  - star
+  - background
+  - audiomusic
+  - Magnet
+  - magnetCheck
+  - dead
+  - FxTemporaire
+  - KillEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - rua
+  - ground
+  - wall
+  - water
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1512866805
+    locked: 0
+  - name: midground
+    uniqueID: 3831835107
+    locked: 0
+  - name: foreground
+    uniqueID: 897667413
+    locked: 0

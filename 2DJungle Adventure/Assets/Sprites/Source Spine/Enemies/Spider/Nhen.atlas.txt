@@ -1,0 +1,146 @@
+
+Nhen.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_spider/Layer 11
+  rotate: false
+  xy: 2, 10
+  size: 165, 199
+  orig: 165, 199
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy
+  rotate: false
+  xy: 508, 343
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 2
+  rotate: false
+  xy: 382, 398
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 3
+  rotate: true
+  xy: 371, 10
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 4
+  rotate: false
+  xy: 169, 2
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 5
+  rotate: false
+  xy: 257, 397
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 6
+  rotate: false
+  xy: 382, 284
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 7
+  rotate: true
+  xy: 469, 10
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+images_spider/Layer 14 copy 8
+  rotate: false
+  xy: 270, 2
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy
+  rotate: true
+  xy: 257, 250
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 2
+  rotate: true
+  xy: 508, 290
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 3
+  rotate: true
+  xy: 257, 212
+  size: 36, 95
+  orig: 36, 95
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 4
+  rotate: true
+  xy: 567, 90
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 5
+  rotate: true
+  xy: 495, 220
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 6
+  rotate: true
+  xy: 508, 167
+  size: 51, 111
+  orig: 51, 111
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 7
+  rotate: false
+  xy: 169, 114
+  size: 337, 95
+  orig: 337, 95
+  offset: 0, 0
+  index: -1
+images_spider/Layer 15 copy 8
+  rotate: true
+  xy: 567, 13
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+images_spider/Layer 17
+  rotate: true
+  xy: 354, 234
+  size: 14, 139
+  orig: 14, 139
+  offset: 0, 0
+  index: -1
+images_spider/Layer 20
+  rotate: false
+  xy: 2, 211
+  size: 253, 299
+  orig: 253, 299
+  offset: 0, 0
+  index: -1
+images_spider/Layer 5
+  rotate: false
+  xy: 257, 314
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1

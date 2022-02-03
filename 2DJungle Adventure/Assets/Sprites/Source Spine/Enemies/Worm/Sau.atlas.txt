@@ -1,0 +1,69 @@
+
+Sau.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_sau/Layer 12
+  rotate: true
+  xy: 186, 2
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+images_sau/Layer 14
+  rotate: false
+  xy: 2, 6
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+images_sau/Layer 15
+  rotate: false
+  xy: 70, 6
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+images_sau/Layer 16
+  rotate: false
+  xy: 133, 10
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+images_sau/Layer 17
+  rotate: true
+  xy: 222, 4
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+images_sau/Layer 18
+  rotate: false
+  xy: 403, 26
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+images_sau/Layer 19
+  rotate: false
+  xy: 484, 34
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+images_sau/Layer 6
+  rotate: true
+  xy: 403, 122
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+images_sau/Layer 9
+  rotate: false
+  xy: 2, 50
+  size: 399, 203
+  orig: 399, 203
+  offset: 0, 0
+  index: -1

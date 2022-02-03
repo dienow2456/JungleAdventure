@@ -1,0 +1,153 @@
+
+main.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_main/beg
+  rotate: true
+  xy: 506, 15
+  size: 76, 184
+  orig: 76, 184
+  offset: 0, 0
+  index: -1
+images_main/body
+  rotate: false
+  xy: 1542, 104
+  size: 242, 405
+  orig: 242, 405
+  offset: 0, 0
+  index: -1
+images_main/bongbong
+  rotate: false
+  xy: 2, 2
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+images_main/bread
+  rotate: false
+  xy: 794, 30
+  size: 177, 61
+  orig: 177, 61
+  offset: 0, 0
+  index: -1
+images_main/face
+  rotate: false
+  xy: 1542, 4
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+images_main/han4
+  rotate: true
+  xy: 427, 12
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+images_main/hand3
+  rotate: false
+  xy: 93, 4
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+images_main/hand5
+  rotate: false
+  xy: 177, 7
+  size: 123, 84
+  orig: 123, 84
+  offset: 0, 0
+  index: -1
+images_main/hand6
+  rotate: false
+  xy: 302, 11
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+images_main/hat
+  rotate: true
+  xy: 1786, 219
+  size: 290, 163
+  orig: 290, 163
+  offset: 0, 0
+  index: -1
+images_main/skill/0
+  rotate: false
+  xy: 2059, 262
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+images_main/skill/1
+  rotate: false
+  xy: 1786, 75
+  size: 123, 142
+  orig: 123, 142
+  offset: 0, 0
+  index: -1
+images_main/skill/2
+  rotate: false
+  xy: 1911, 76
+  size: 123, 141
+  orig: 123, 141
+  offset: 0, 0
+  index: -1
+images_main/skill/3
+  rotate: false
+  xy: 2036, 110
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+images_main/skill/4
+  rotate: true
+  xy: 2059, 386
+  size: 123, 109
+  orig: 123, 109
+  offset: 0, 0
+  index: -1
+images_main/skill/5
+  rotate: false
+  xy: 692, 21
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+images_main/skill2/1
+  rotate: false
+  xy: 2, 93
+  size: 383, 416
+  orig: 383, 416
+  offset: 0, 0
+  index: -1
+images_main/skill2/2
+  rotate: false
+  xy: 387, 93
+  size: 383, 416
+  orig: 383, 416
+  offset: 0, 0
+  index: -1
+images_main/skill2/3
+  rotate: false
+  xy: 772, 93
+  size: 383, 416
+  orig: 383, 416
+  offset: 0, 0
+  index: -1
+images_main/skill2/4
+  rotate: false
+  xy: 1157, 93
+  size: 383, 416
+  orig: 383, 416
+  offset: 0, 0
+  index: -1
+images_main/weapon
+  rotate: false
+  xy: 1951, 238
+  size: 106, 271
+  orig: 106, 271
+  offset: 0, 0
+  index: -1

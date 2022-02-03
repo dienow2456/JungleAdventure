@@ -1,0 +1,41 @@
+
+Cayanthit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_cayanthit/body
+  rotate: true
+  xy: 2, 23
+  size: 199, 255
+  orig: 199, 255
+  offset: 0, 0
+  index: -1
+images_cayanthit/head
+  rotate: false
+  xy: 2, 224
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1
+images_cayanthit/la
+  rotate: true
+  xy: 287, 239
+  size: 268, 121
+  orig: 268, 121
+  offset: 0, 0
+  index: -1
+images_cayanthit/rang1
+  rotate: true
+  xy: 259, 118
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+images_cayanthit/rang2
+  rotate: false
+  xy: 259, 2
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1

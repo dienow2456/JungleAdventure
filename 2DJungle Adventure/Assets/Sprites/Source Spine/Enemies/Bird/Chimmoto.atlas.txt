@@ -1,0 +1,69 @@
+
+Chimmoto.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_chimmoto/Layer 10
+  rotate: true
+  xy: 202, 141
+  size: 131, 49
+  orig: 131, 49
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 13
+  rotate: true
+  xy: 393, 35
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 14
+  rotate: false
+  xy: 2, 274
+  size: 336, 190
+  orig: 336, 190
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 18
+  rotate: true
+  xy: 2, 91
+  size: 181, 198
+  orig: 181, 198
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 18 copy
+  rotate: false
+  xy: 340, 224
+  size: 147, 240
+  orig: 147, 240
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 8
+  rotate: false
+  xy: 408, 165
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+images_chimmoto/Layer 9
+  rotate: false
+  xy: 202, 2
+  size: 189, 137
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+images_chimmoto/hoa mat
+  rotate: true
+  xy: 253, 195
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+images_chimmoto/hoa mat2
+  rotate: true
+  xy: 329, 149
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1

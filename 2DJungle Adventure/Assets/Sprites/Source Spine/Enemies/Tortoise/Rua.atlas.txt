@@ -1,0 +1,69 @@
+
+Rua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_rua/Layer 100
+  rotate: true
+  xy: 2, 86
+  size: 419, 289
+  orig: 419, 289
+  offset: 0, 0
+  index: -1
+images_rua/Layer 11
+  rotate: false
+  xy: 2, 22
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+images_rua/Layer 17
+  rotate: false
+  xy: 586, 339
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+images_rua/Layer 5
+  rotate: false
+  xy: 586, 172
+  size: 162, 165
+  orig: 162, 165
+  offset: 0, 0
+  index: -1
+images_rua/Layer 5 copy
+  rotate: true
+  xy: 293, 8
+  size: 92, 123
+  orig: 92, 123
+  offset: 0, 0
+  index: -1
+images_rua/Layer 5 copy 2
+  rotate: false
+  xy: 418, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+images_rua/Layer 5 copy 3
+  rotate: false
+  xy: 512, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+images_rua/Layer 6
+  rotate: true
+  xy: 293, 102
+  size: 403, 291
+  orig: 403, 291
+  offset: 0, 0
+  index: -1
+images_rua/Layer 8
+  rotate: true
+  xy: 606, 18
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1

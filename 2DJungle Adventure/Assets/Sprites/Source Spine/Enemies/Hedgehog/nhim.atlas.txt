@@ -1,0 +1,62 @@
+
+nhim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_nhim/Layer 10
+  rotate: false
+  xy: 132, 12
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+images_nhim/Layer 16
+  rotate: true
+  xy: 432, 12
+  size: 109, 68
+  orig: 109, 68
+  offset: 0, 0
+  index: -1
+images_nhim/Layer 3
+  rotate: false
+  xy: 2, 65
+  size: 428, 296
+  orig: 428, 296
+  offset: 0, 0
+  index: -1
+images_nhim/Layer 4
+  rotate: false
+  xy: 432, 123
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+images_nhim/Layer 7
+  rotate: true
+  xy: 2, 2
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+images_nhim/Layer 9
+  rotate: true
+  xy: 73, 8
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+images_nhim/hoa mat
+  rotate: true
+  xy: 432, 284
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+images_nhim/hoa mat2
+  rotate: false
+  xy: 432, 205
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
